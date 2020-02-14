@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Hello World"
+date:   2020-02-14 18:26:52 +0000
+categories: python
+---
+
 # Why should programmers study writing?
 
 If you have picked up this book, then you are probably a software developer. Furthermore, you are someone who cares about your career. You have probably spent countless hours studying manuals, reading library docs, learning how to write good code, and otherwise mastering your stuff.
