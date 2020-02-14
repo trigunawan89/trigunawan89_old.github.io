@@ -84,9 +84,9 @@ If you are that developer, you will quickly earn the trust of your manager and n
 
 # Improve your own understanding
 
-```
-How can I tell you what I think till I see what I say?. E.M. Forster, Aspects of the novels
-```
+
+> How can I tell you what I think till I see what I say?. E.M. Forster, *Aspects of the novels*
+
 
 The process of writing takes our often fuzzy and unformed ideas, and shapes them into something clear enough to communicate to others. This makes writing an excellent way to deepen our own understanding of a subject. Sometimes the improvement comes from search, but often comes simply due to organizing our own thought.
 
