@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Developer Writing Skill"
 date:   2020-02-14 18:26:52 +0000
 categories: python
 ---
